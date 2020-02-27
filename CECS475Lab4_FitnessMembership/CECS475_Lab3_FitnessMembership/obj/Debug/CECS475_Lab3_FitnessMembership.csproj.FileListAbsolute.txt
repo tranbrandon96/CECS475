@@ -1,0 +1,98 @@
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.csprojAssemblyReference.cache
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\MainWindow.g.cs
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\View\AddWindow.g.cs
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\View\ChangeWindow.g.cs
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\App.g.cs
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership_MarkupCompile.cache
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership_MarkupCompile.lref
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\CECS475_Lab3_FitnessMembership.exe.config
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\CECS475_Lab3_FitnessMembership.exe
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\CECS475_Lab3_FitnessMembership.pdb
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\CommonServiceLocator.dll
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\App.baml
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\MainWindow.baml
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\View\AddWindow.baml
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\View\ChangeWindow.baml
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.g.resources
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.Properties.Resources.resources
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.csproj.GenerateResource.cache
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.csproj.CoreCompileInputs.cache
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.csproj.CopyComplete
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.exe
+C:\Users\Dinh Luong\Downloads\GitHub\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.pdb
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\CECS475_Lab3_FitnessMembership.exe.config
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\CECS475_Lab3_FitnessMembership.exe
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\CECS475_Lab3_FitnessMembership.pdb
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\CommonServiceLocator.dll
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\System.Windows.Interactivity.dll
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.csprojAssemblyReference.cache
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\MainWindow.g.cs
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\View\AddWindow.g.cs
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\View\ChangeWindow.g.cs
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\App.g.cs
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership_MarkupCompile.cache
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership_MarkupCompile.lref
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\App.baml
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\MainWindow.baml
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\View\AddWindow.baml
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\View\ChangeWindow.baml
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.g.resources
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.Properties.Resources.resources
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.csproj.GenerateResource.cache
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.csproj.CoreCompileInputs.cache
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.csproj.CopyComplete
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.exe
+C:\Github\CECS475\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.pdb
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\CECS475_Lab3_FitnessMembership.exe.config
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\CECS475_Lab3_FitnessMembership.exe
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\CECS475_Lab3_FitnessMembership.pdb
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\CommonServiceLocator.dll
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.csprojAssemblyReference.cache
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\MainWindow.g.cs
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\View\AddWindow.g.cs
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\View\ChangeWindow.g.cs
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\App.g.cs
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership_MarkupCompile.cache
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership_MarkupCompile.lref
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\App.baml
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\MainWindow.baml
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\View\AddWindow.baml
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\View\ChangeWindow.baml
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.g.resources
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.Properties.Resources.resources
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.csproj.GenerateResource.cache
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.csproj.CopyComplete
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.exe
+C:\Users\Brandon Tran\Desktop\CECS475_Lab3_FitnessMembership\CECS475_Lab3_FitnessMembership\obj\Debug\CECS475_Lab3_FitnessMembership.pdb
