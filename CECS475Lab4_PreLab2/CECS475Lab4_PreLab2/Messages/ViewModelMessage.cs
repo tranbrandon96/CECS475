@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using GalaSoft.MvvmLight.Messaging;
 
-namespace wpfmvvm.Messages
+namespace CECS475Lab4_PreLab2.Messages
 {
     class ViewModelMessage: MessageBase
     {

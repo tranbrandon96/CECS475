@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace CECS475Lab4_PreLab2
+namespace CECS475Lab4_Calculator
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -23,11 +23,6 @@ namespace CECS475Lab4_PreLab2
         public MainWindow()
         {
             InitializeComponent();
-        }
-
-        private void SenderView_Loaded(object sender, RoutedEventArgs e)
-        {
-
         }
     }
 }

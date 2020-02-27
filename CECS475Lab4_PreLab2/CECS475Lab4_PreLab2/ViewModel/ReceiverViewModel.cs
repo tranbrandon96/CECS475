@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 using GalaSoft.MvvmLight; //For mvvmlight 
 using GalaSoft.MvvmLight.Command;
 using GalaSoft.MvvmLight.Messaging;//for class Messenger
-using wpfmvvm.Messages;
+using CECS475Lab4_PreLab2.Messages;
 
-namespace wpfmvvm.ViewModel
+namespace CECS475Lab4_PreLab2.ViewModel
 {
     public class ReceiverViewModel : ViewModelBase
     {

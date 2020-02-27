@@ -1,7 +1,7 @@
 /*
   In App.xaml:
   <Application.Resources>
-      <vm:ViewModelLocator xmlns:vm="clr-namespace:wpfmvvm"
+      <vm:ViewModelLocator xmlns:vm="clr-namespace:Calculator"
                            x:Key="Locator" />
   </Application.Resources>
   
@@ -16,7 +16,7 @@ using GalaSoft.MvvmLight;
 using GalaSoft.MvvmLight.Ioc;
 using CommonServiceLocator;
 
-namespace CECS475Lab4_PreLab2.ViewModel
+namespace CECS475Lab4_Calculator.ViewModel
 {
     /// <summary>
     /// This class contains static references to all the view models in the
@@ -42,26 +42,17 @@ namespace CECS475Lab4_PreLab2.ViewModel
             ////    SimpleIoc.Default.Register<IDataService, DataService>();
             ////}
 
-            SimpleIoc.Default.Register<SenderViewModel>();
-            SimpleIoc.Default.Register<ReceiverViewModel>();
+            SimpleIoc.Default.Register<ViewModel>();
         }
 
-        public SenderViewModel SenderViewModel
+        public ViewModel Main
         {
             get
             {
-                return ServiceLocator.Current.GetInstance<SenderViewModel>();
+                return ServiceLocator.Current.GetInstance<ViewModel>();
             }
         }
-        public ReceiverViewModel ReceiverViewModel
-        {
-            get
-            {
-                return ServiceLocator.Current.GetInstance<ReceiverViewModel>();
-            }
-        }
-
-
+        
         public static void Cleanup()
         {
             // TODO Clear the ViewModels

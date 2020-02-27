@@ -1,6 +1,6 @@
 using GalaSoft.MvvmLight;
 
-namespace wpfmvvm.ViewModel
+namespace CECS475Lab4_PreLab2.ViewModel
 {
     /// <summary>
     /// This class contains properties that the main View can data bind to.

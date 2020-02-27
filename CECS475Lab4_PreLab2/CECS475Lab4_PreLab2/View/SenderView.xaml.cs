@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace wpfmvvm.View
+namespace CECS475Lab4_PreLab2.View
 {
     /// <summary>
     /// Interaction logic for SenderView.xaml

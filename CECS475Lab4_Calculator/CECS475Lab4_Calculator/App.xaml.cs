@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace CECS475Lab4_PreLab2
+namespace CECS475Lab4_Calculator
 {
     /// <summary>
     /// Interaction logic for App.xaml
