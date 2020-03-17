@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{89E24F60-D7EA-4B9C-B2BE-35858C05D898}|Default">
+  <MonoDevelop.Ide.ItemProperties.CECS475Lab2__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CECS475Lab2_2/Program.cs">
+    <Files>
+      <File FileName="CECS475Lab2_2/Program.cs" Line="14" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CECS475Lab2_2" expanded="True">
+            <Node name="CECS475Lab2_2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

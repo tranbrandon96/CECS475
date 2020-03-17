@@ -1,0 +1,11 @@
+/Users/brandontran/Projects/CECS475Lab3_1.PartC_D/CECS475Lab3_1.PartC_D/bin/Debug/netcoreapp3.1/CECS475Lab3_1.PartC_D
+/Users/brandontran/Projects/CECS475Lab3_1.PartC_D/CECS475Lab3_1.PartC_D/bin/Debug/netcoreapp3.1/CECS475Lab3_1.PartC_D.deps.json
+/Users/brandontran/Projects/CECS475Lab3_1.PartC_D/CECS475Lab3_1.PartC_D/bin/Debug/netcoreapp3.1/CECS475Lab3_1.PartC_D.runtimeconfig.json
+/Users/brandontran/Projects/CECS475Lab3_1.PartC_D/CECS475Lab3_1.PartC_D/bin/Debug/netcoreapp3.1/CECS475Lab3_1.PartC_D.runtimeconfig.dev.json
+/Users/brandontran/Projects/CECS475Lab3_1.PartC_D/CECS475Lab3_1.PartC_D/bin/Debug/netcoreapp3.1/CECS475Lab3_1.PartC_D.dll
+/Users/brandontran/Projects/CECS475Lab3_1.PartC_D/CECS475Lab3_1.PartC_D/bin/Debug/netcoreapp3.1/CECS475Lab3_1.PartC_D.pdb
+/Users/brandontran/Projects/CECS475Lab3_1.PartC_D/CECS475Lab3_1.PartC_D/obj/Debug/netcoreapp3.1/CECS475Lab3_1.PartC_D.csprojAssemblyReference.cache
+/Users/brandontran/Projects/CECS475Lab3_1.PartC_D/CECS475Lab3_1.PartC_D/obj/Debug/netcoreapp3.1/CECS475Lab3_1.PartC_D.AssemblyInfoInputs.cache
+/Users/brandontran/Projects/CECS475Lab3_1.PartC_D/CECS475Lab3_1.PartC_D/obj/Debug/netcoreapp3.1/CECS475Lab3_1.PartC_D.AssemblyInfo.cs
+/Users/brandontran/Projects/CECS475Lab3_1.PartC_D/CECS475Lab3_1.PartC_D/obj/Debug/netcoreapp3.1/CECS475Lab3_1.PartC_D.dll
+/Users/brandontran/Projects/CECS475Lab3_1.PartC_D/CECS475Lab3_1.PartC_D/obj/Debug/netcoreapp3.1/CECS475Lab3_1.PartC_D.pdb
