@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{16783177-0448-40DC-9DB5-B61EC56F8A57}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CECS475Lab5/Program.cs">
+    <Files>
+      <File FileName="CECS475Lab5/Program.cs" Line="18" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CECS475Lab5" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CECS475Lab5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
